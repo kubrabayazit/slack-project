@@ -174,7 +174,7 @@ button {
 
 .list-channels {
   display:flex;
-	flex-direction: row;
+	flex-direction:row-reverse;
   flex-wrap:wrap;
   padding: 5px;
   color: white;
