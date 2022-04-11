@@ -176,7 +176,7 @@ button {
   display:flex;
 	flex-direction:row-reverse;
   flex-wrap:wrap;
-  padding: 5px;
+  padding: 10px;
   color: white;
 }
 </style>
